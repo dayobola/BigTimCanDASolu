@@ -1,2 +1,2 @@
-# BigTimCanDASolu
+# BigTinCanDASolu
 BigTinCan Code Challenge Solution 
